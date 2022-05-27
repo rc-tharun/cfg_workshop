@@ -1,5 +1,8 @@
 hi im in dir1_dir1_file2.txt
 <<<<<<< HEAD
+<<<<<<< HEAD
 bran
+=======
+>>>>>>> branch1_branch1
 =======
 >>>>>>> branch1_branch1
