@@ -1,0 +1,5 @@
+hi im in dir1_dir1_file2.txt
+<<<<<<< HEAD
+bran
+=======
+>>>>>>> branch1_branch1
